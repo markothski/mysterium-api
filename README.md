@@ -6,7 +6,7 @@ Static JSON files containing the Pope’s monthly prayer intentions and liturgic
 
 ## Structure
 
-'''text
+```text
 {year}/
 ├── intentions/          
 │   ├── ru.json     for ru & kz      
