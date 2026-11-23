@@ -4,7 +4,7 @@
 Static JSON files containing the Pope’s monthly prayer intentions and liturgical feasts, designed for offline synchronization within the Mysterium app.
 
 
-## СStructure
+## Structure
 
 
 {year}/
