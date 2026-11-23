@@ -8,16 +8,14 @@ Static JSON files containing the Pope’s monthly prayer intentions and liturgic
 
 ```text
 {year}/
-├── intentions/          
-│   ├── ru.json     for ru & kz      
-│   ├── be.json
-│   ├── pl.json
-│   ├── sk.json
-│   └── hr.json
-└── feasts/             
-    ├── ru.json
-    ├── kz.json
-    ├── be.json
-    ├── pl.json
-    ├── sk.json
-    └── hr.json
+├── intentions_ru.json     //for ru & kz             
+├── intentions_be.json
+├── intentions_sk.json
+├── intentions_hr.json
+├── intentions_pl.json
+└── feasts_ru.json           
+└── feasts_kz.json
+└── feasts_be.json
+└── feasts_sk.json
+└── feasts_hr.json
+└── feasts_pl.json
