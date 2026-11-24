@@ -1,0 +1,58 @@
+{
+  "2026-01-01": {
+    "title": "Пресвятой Богородицы Марии",
+    "mysteries": "glorious"
+  },
+  "2026-01-06": {
+    "title": "Богоявление",
+    "mysteries": "glorious"
+  },
+  "2026-02-18": {
+    "title": "Пепельная среда",
+    "mysteries": "sorrowful"
+  },
+  "2026-03-19": {
+    "title": "Святого Иосифа",
+    "mysteries": "joyful"
+  },
+  "2026-03-25": {
+    "title": "Благовещение",
+    "mysteries": "joyful"
+  },
+ "2026-04-04": {
+    "title": "Великая Суббота",
+    "mysteries": "sorrowful"
+  },
+  "2026-06-12": {
+    "title": "Святейшего Сердца Иисуса",
+    "mysteries": "sorrowful"
+  },
+  "2026-06-24": {
+    "title": "Рождество Иоанна Крестителя",
+    "mysteries": "glorious"
+  },
+  "2026-06-29": {
+    "title": "Святых Петра и Павла",
+    "mysteries": "glorious"
+  },
+  "2026-08-15": {
+    "title": "Успение Богородицы",
+    "mysteries": "glorious"
+  },
+  "2026-11-01": {
+    "title": "Всех Святых",
+    "mysteries": "glorious"
+  },
+  "2026-11-30": {
+    "title": "Святого Андрея Первозванного",
+    "mysteries": "glorious"
+  },
+  "2026-12-08": {
+    "title": "Непорочного Зачатия Девы Марии",
+    "mysteries": "joyful"
+  },
+  "2026-12-25": {
+    "title": "Рождество Христово",
+    "mysteries": "joyful"
+  }
+}
